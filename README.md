@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simranrk
-I'm a passionate ReactJS developer with 4.6 years of professional experience. I love creating intuitive and performant web applications that provide seamless user experiences. My expertise lies in front-end development, UI/UX design, and problem-solving.
+I'm a passionate ReactJS developer with 5 years of professional experience. I love creating intuitive and performant web applications that provide seamless user experiences. My expertise lies in front-end development, UI/UX design, and problem-solving.
 
 ## 🚀 Technologies and Tools
 
